@@ -1,0 +1,53 @@
+[
+  {
+    "Name": "Château Margaux 2015",
+    "ProductName": "Château Margaux 2015 Bordeaux Red Wine",
+    "Description": "A full-bodied Bordeaux with rich flavors and a long finish. [Label slightly damaged]",
+    "Vintage": "2015",
+    "OfferAndUnitSize": "1 x 750ml bottle",
+    "LWINNumber": "LWIN1012361",
+    "Price": "499.99",
+    "URL": "https://example.com/products/chateau-margaux-2015",
+    "MinimumOrder": "minimum order of 1 bottle",
+    "Tax": "Inc.tax",
+    "OfferType": "R",
+    "StandardDeliveryTime": "1 week",
+    "LabelImageURL": "https://example.com/images/chateau-margaux-2015.jpg",
+    "StockLevel": 12,
+    "SKUNumber": "SKU12345"
+  },
+  {
+    "Name": "Heineken",
+    "ProductName": "Heineken Lager Beer",
+    "Description": "A classic lager with a smooth taste. [Fresh stock]",
+    "Vintage": "NV",
+    "OfferAndUnitSize": "6 x 330ml cans",
+    "LWINNumber": "LWIN1234567",
+    "Price": "9.99",
+    "URL": "https://example.com/products/heineken-lager-beer",
+    "MinimumOrder": "minimum order of 1 pack",
+    "Tax": "Ex.tax",
+    "OfferType": "M",
+    "StandardDeliveryTime": "3-5 days",
+    "LabelImageURL": "https://example.com/images/heineken-lager-beer.jpg",
+    "StockLevel": 50,
+    "SKUNumber": "SKU67890"
+  },
+  {
+    "Name": "Glenfiddich 18 Year Old",
+    "ProductName": "Glenfiddich 18 Year Old Single Malt Scotch Whisky",
+    "Description": "An exceptional single malt with rich notes of oak and spice.",
+    "Vintage": "NV",
+    "OfferAndUnitSize": "1 x 750ml bottle",
+    "LWINNumber": "LWIN1011122",
+    "Price": "119.99",
+    "URL": "https://example.com/products/glenfiddich-18-year-old",
+    "MinimumOrder": "minimum order of 1 bottle",
+    "Tax": "Inc.tax",
+    "OfferType": "R",
+    "StandardDeliveryTime": "1 week",
+    "LabelImageURL": "https://example.com/images/glenfiddich-18.jpg",
+    "StockLevel": 8,
+    "SKUNumber": "SKU54321"
+  }
+]
